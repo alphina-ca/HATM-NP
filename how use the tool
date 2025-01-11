@@ -1,2 +1,2 @@
 After downloading and installing the tool using the installation script, users can run the tool from the terminal and specify the device name (like "HATM NP").
-
+To run the tool:    python3 ss7map.py "HATM NP"
